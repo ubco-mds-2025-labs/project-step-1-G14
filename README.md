@@ -1,5 +1,8 @@
 # FreshFridge Package Function Documentation
 
+## Group 14
+### Yin-Wen Tsai, Jiaqi Yao, Sasivimol Sirijangkapattana
+
 This document describes the structure of the FreshFridge package and explains the functionality of each module, class, and function.  
 The purpose is to demonstrate how the package works internally for DATA 533 — Step 3.
 
